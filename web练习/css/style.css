@@ -1,0 +1,11 @@
+img{
+	width: 100%;
+}
+.lunbo{
+height: 500px;	
+margin-top: 50px;
+overflow: hidden;
+}
+.carousel-caption{
+	bottom: 50%;
+}
